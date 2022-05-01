@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box
+  }
+
+body{
+    background-color: #d3d3d3;
+}
+
+h1{ 
+  text-align: center;
+}
+
+.floats{
+    width: 600px;
+    position: relative;
+    margin: 5% auto 0 auto;
+    text-align: justify;
+  }
+
+  .text{
+    text-align: center;
+  }
+
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+.topicos{
+text-align: center;
+
+}
+
+  a { color: inherit; } 
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
